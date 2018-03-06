@@ -1,0 +1,162 @@
+.left, .right {
+    margin-top: 30px;
+    background: #23292e;
+    display: inline-block;
+    width: 40px;
+    float: left;
+    height: 100vh;
+}
+
+.item:hover {
+    background-color: #c53290;
+}
+
+.left .fa {
+    margin: 12px;
+    font-size: 15px;
+    color: #fff;
+}
+
+span.fa.fa-refresh {
+    font-size: 20px;
+    vertical-align: middle !important;
+}
+
+.item {
+    height: 40px;
+    overflow: hidden;
+    color: #fff;
+    border-bottom: 1px solid white;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.right {
+    background: #fff;
+    transition: width 1s;
+    border-style: solid;
+    border-color: #efe2f2;
+    border-width: 1px;
+    width: calc(100% - 40px);
+}
+
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.profile{
+    background-color: #f5eef5;
+    height: 30%;
+    margin-left: -15px;;
+    padding-bottom: 300px;
+}
+img{
+    width:80px;
+    height: 80px;;
+    margin-top: 150%;
+
+}
+.name{
+    color:#cd4ba0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.mar-zero{
+    margin-top: 0px !important;
+}
+.mar-top{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.mar-left{
+
+    margin-left: 15px !important;
+}
+.violet{
+    color: #af92bd;
+    padding: 0;
+}
+p{
+    margin-bottom: 0px !important;
+    color: #6a6d71;
+}
+.address{
+    margin-top: 20px;
+}
+.white-area{
+    background-color: white;
+    border: 1px solid #efe2f2;
+    padding-bottom: 25px;
+    margin-top: 30px;
+}
+.id{
+    color: #caced3;
+   
+}
+.fl-left{
+    float: left;
+}
+.fa-id-card:before {
+   height:50px;
+}
+.pad{
+    padding-left: 10px;
+}
+.fl-right{
+    float: right;
+}
+.pad-right{
+    padding-right: 10px;
+}
+.txt-right{
+    text-align: right;
+}
+.mar-left{
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+}
+.mar-left1{
+    margin-left: -35px !important;
+    padding-left: 0px !important;
+}
+.mar-right{
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+}
+
+.mar-right1{
+    margin-right: -20px !important;
+    padding-right: 0px !important;
+}
+.pad-top{
+    padding-top: 10px;
+    margin-top: 0px !important;
+}
+button.btn{
+    border-radius: 4em / 5em;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+button.edit{
+    background-color: #843797;
+    color:white;
+}
+.mar-t{
+    margin-top:80px;
+    width :140px !important;
+    margin-left: 0px !important;
+}
+button.deact{
+    background-color: #c63291;
+    color:white;
+}
+.mar-de{
+    margin-top :10px;
+    width :140px !important;
+}
+.col-sm-1{
+    padding-left: 0px !important;
+}
